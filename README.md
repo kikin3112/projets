@@ -1,3 +1,3 @@
 # projets
 
-#lil beginner projects that I'm interested at the time.
+Lil beginner projects that I'm interested at the time.
